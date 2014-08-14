@@ -1,0 +1,9 @@
+body {
+    font-size: 1em;
+    background-image: url('../img/flashhtml_BG_tile.gif');
+    background-repeat: repeat;
+    position: absolute;
+    left: 400px;
+    margin: 0px;
+}
+
